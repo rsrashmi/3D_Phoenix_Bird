@@ -25,4 +25,6 @@ This project demonstrates a 3D product featuring a Phoenix bird model with smoot
 ```bash
 git clone https://github.com/rsrashmi/3D_Phoenix_Bird.git
 cd 3D_Phoenix_Bird
+npm install
+npm run dev
 ```
