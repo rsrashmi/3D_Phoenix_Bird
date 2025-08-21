@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "3D Bird Showcase",
-  description: "Interactive 3D phoenix bird showcase in Next.js"
+  title: "3D Bird",
+  description: "Interactive 3D phoenix bird in Next.js",
 };
 
 export default function RootLayout({ children }) {
